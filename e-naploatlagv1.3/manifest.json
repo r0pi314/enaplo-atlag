@@ -3,7 +3,7 @@
 	
 	"name": "E-Napló Átlag",
 	"description": "Ez a bővítmény a Szent Angéla Ferences Ált. Isk. és Gimn. E-Naplójához készült, azzal a céllal, hogy megkönnyítse a diákok életét.",
-	"version": "1.3",
+	"version": "2",
 	"options_page": "about.html",
 	
 	"browser_action": {
